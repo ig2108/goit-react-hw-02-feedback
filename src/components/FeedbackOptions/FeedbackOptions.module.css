@@ -1,0 +1,18 @@
+.feedbackOptions {
+  display: flex;
+  width: 200px;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+
+.feedbackButton {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  width: 60px;
+  background-color: #706f6f;
+  color: #fff;
+}
